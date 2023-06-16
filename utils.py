@@ -157,16 +157,15 @@ def whole_pipeline(file_path_1, file_path_2, visualize=False, voxel_size = 0.032
     
     Parameters
     ----------------
-    slices_voxels_conv: 
-        total possible voxel volume
-    voxs:
-        actual leaf voxels
+    file_path_1: 
+        input folder path + files with all trees (naming code must have 3 words)
+    file_path_2:
+        input folder path + files with only one species (naming code must have 4 words)
     voxel_size:
-        size used to voxelize tree (0.0325 m is default)
+        size of each voxel for grid (0.0325 m is default)
     visualize:
         True or False
-        visualize the convex hull 
-        
+        visualize the convex hull, normal vectors, and the leaf angle distributions    
     Returns
     ----------------
     LAI:
