@@ -1,6 +1,6 @@
 Estimating Leaf Area Index (LAI), leaf area density, and leaf inclination angles using Terrestrial Laser Scanning (Boise Center Aerospace Lab and SPRUCE)
 
-**Welcome! And thank you for the opportunity.**
+**Welcome!**
 
 Goal
 ------------
