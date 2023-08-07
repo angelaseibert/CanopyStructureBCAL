@@ -24,12 +24,12 @@ Project Organization
 ------------
     ├── LICENSE
     ├── README.md                <- The top-level README file overview of the project.
-    ├── Canopy_Structure.ipynb   <- Runs full workflow to estimate all structural metrics using functions from utils.py.
+    ├── Canopy_Structure.ipynb   <- Runs full workflow to estimate all structural metrics using functions from utils_final.py.
     ├── Leaf_Volume.py           <- Contains functions to estimate the voxel volume of plots.
     ├── SPRUCE_RF.ipynb          <- Random Forest Classifier to separate leaves and wood.
     ├── destructive_trees.zip    <- Destructively harvested tree files used as model validation data.
     ├── leaf_volume_output.ipynb <- Notebook containing Leaf_Volume.py functions applied.
     ├── utils_final.py           <- Contains functions to estimate all structural metrics. 
-    ├── RF_training_txtfiles.zip <- Contains training files for SPRUCE_RF
+    ├── RF_training_txtfiles.zip <- Contains training files for SPRUCE_RF.
     ├── environment.yml          <- The conda environment generated with 'conda env export > environment.yml', name for activation: canopy_structure_env
   ----------
