@@ -20,7 +20,7 @@ The scripts provided in this project perform the following steps:
 
 **Below you can find the project organization.**
 
-Project Organization
+Project Organization 
 ------------
 
   ├── LICENSE
