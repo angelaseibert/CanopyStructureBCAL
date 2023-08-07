@@ -31,4 +31,5 @@ Project Organization
     ├── leaf_volume_output.ipynb <- Notebook containing Leaf_Volume.py functions applied.
     ├── utils_final.py           <- Contains functions to estimate all structural metrics. 
     ├── RF_training_txtfiles.zip <- Contains training files for SPRUCE_RF
+    ├── environment.yml          <- The conda environment generated with 'conda env export > environment.yml'
   ----------
