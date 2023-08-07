@@ -23,7 +23,7 @@ The scripts provided in this project perform the following steps:
 Project Organization 
 ------------
     ├── LICENSE
-    ├── README.md          <- The top-level README file overview of the project.
+    ├── README.md                <- The top-level README file overview of the project.
     ├── Canopy_Structure.ipynb   <- Runs full workflow to estimate all structural metrics using functions from utils.py.
     ├── Leaf_Volume.py           <- Contains functions to estimate the voxel volume of plots.
     ├── SPRUCE_RF.ipynb          <- Random Forest Classifier to separate leaves and wood.
