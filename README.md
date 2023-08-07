@@ -16,3 +16,18 @@ The scripts provided in this project perform the following steps:
 3. Compute normal vectors and estimate leaf angles.
 4. Slice the tree plots and estimate contact frequencies for each slice to get leaf area density.
 5. Sum leaf area densities to estimate the LAI of each plot.
+
+
+**Below you can find the project organization.**
+
+Project Organization
+------------
+
+  ├── LICENSE
+  ├── README.md                <- The top-level README file overview of the project.
+  ├── Canopy_Structure.ipynb   <- Runs full workflow to estimate all structural metrics using functions from utils.py.
+  ├── Leaf_Volume.py           <- Contains functions to estimate the voxel volume of plots.
+  ├── SPRUCE_RF.ipynb          <- Random Forest Classifier to separate leaves and wood.
+  ├── destructive_trees.zip    <- Destructively harvested tree files used as model validation data.
+  ├── leaf_volume_output.ipynb <- Notebook containing Leaf_Volume.py functions applied.
+  ├── utils.py                 <- Contains functions to estimate all structural metrics. 
