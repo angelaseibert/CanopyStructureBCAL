@@ -22,14 +22,13 @@ The scripts provided in this project perform the following steps:
 
 Project Organization 
 ------------
-
-  ├── LICENSE
-  ├── README.md                <- The top-level README file overview of the project.
-  ├── Canopy_Structure.ipynb   <- Runs full workflow to estimate all structural metrics using functions from utils.py.
-  ├── Leaf_Volume.py           <- Contains functions to estimate the voxel volume of plots.
-  ├── SPRUCE_RF.ipynb          <- Random Forest Classifier to separate leaves and wood.
-  ├── destructive_trees.zip    <- Destructively harvested tree files used as model validation data.
-  ├── leaf_volume_output.ipynb <- Notebook containing Leaf_Volume.py functions applied.
-  ├── utils.py                 <- Contains functions to estimate all structural metrics. 
+    ├── LICENSE
+    ├── README.md          <- The top-level README file overview of the project.
+    ├── Canopy_Structure.ipynb   <- Runs full workflow to estimate all structural metrics using functions from utils.py.
+    ├── Leaf_Volume.py           <- Contains functions to estimate the voxel volume of plots.
+    ├── SPRUCE_RF.ipynb          <- Random Forest Classifier to separate leaves and wood.
+    ├── destructive_trees.zip    <- Destructively harvested tree files used as model validation data.
+    ├── leaf_volume_output.ipynb <- Notebook containing Leaf_Volume.py functions applied.
+    ├── utils.py                 <- Contains functions to estimate all structural metrics. 
 
   ----------
