@@ -32,21 +32,4 @@ Project Organization
   ├── leaf_volume_output.ipynb <- Notebook containing Leaf_Volume.py functions applied.
   ├── utils.py                 <- Contains functions to estimate all structural metrics. 
 
-
- ├── LICENSE
-    ├── README.md          <- The top-level README file overview the project.
-    ├── data
-    │   ├── processed      <- The final data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- Documentation provided by Sphinx
-    │
-    ├── models             <- Trained and serialized models
-    │
-    ├── notebooks          <- Main juypter notebook (00-hd-estimate-nitrogen.ipynb)
-    │                      
-    │
-    ├── references         <- Includes some reference manuscripts and my response
-    │
-    ├── reports            
-    │   └── figures        <- Generated graphics and figures
+  ----------
