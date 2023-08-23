@@ -24,10 +24,11 @@ Project Organization
 ------------
     ├── LICENSE
     ├── README.md                <- The top-level README file overview of the project.
-    ├── LAI_Results2.csv         <- Destructive tree LAI estimates used in validation regression.
+    ├── LAI_SPRUCE_dest_0325.csv <- Destructive tree LAI estimates used in validation regression.
     ├── Canopy_Structure.ipynb   <- Runs full workflow to estimate all structural metrics using functions from utils_final.py.
     ├── Leaf_Volume.py           <- Contains functions to estimate the voxel volume of plots.
     ├── SPRUCE_RF.ipynb          <- Random Forest Classifier to separate leaves and wood.
+    ├── allLAI_plots.ipynb       <- All LAI results (10 model iterations) scaled by convex hull.
     ├── destructive_trees.zip    <- Destructively harvested tree files used as model validation data.
     ├── leaf_volume_output.ipynb <- Notebook containing Leaf_Volume.py functions applied.
     ├── utils_final.py           <- Contains functions to estimate all structural metrics. 
